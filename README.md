@@ -1,2 +1,2 @@
-# ci_koperasi
+# Aplikasi Koperasi
 Repository untuk codeigniter koperasi
